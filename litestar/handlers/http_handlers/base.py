@@ -94,7 +94,6 @@ class HTTPRouteHandler(BaseRouteHandler):
         "_default_response_handler",
         "_include_in_schema",
         "_kwargs_models",
-        "_kwargs_models",
         "_request_class",
         "_request_max_body_size",
         "_response_class",
